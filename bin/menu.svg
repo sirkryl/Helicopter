@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg12-tiny.dtd">
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="320" viewbox="0 0 240 320">
+
+        <title>Helicopter - Menu</title>
+        <desc>Das Hauptmenu</desc>
+
+        
+        <rect x="0" y="0" width="240" height="320" fill="#FFFFFF"/>
+        <text x="45" y="20" fill="#000000" font-size="12">Helicopter - Hauptmenue</text>
+        
+        <rect id="button1" x="60" y="60" width="120" height="40" fill="#68bdff" />
+        <rect id="button2" x="60" y="105" width="120" height="40" fill="#68bdff" />
+        <rect id="button3" x="60" y="150" width="120" height="40" fill="#68bdff" />
+        <rect id="button4" x="60" y="195" width="120" height="40" fill="#68bdff" />
+        <rect id="button6" x="60" y="240" width="120" height="40" fill="#68bdff" />
+        
+        <rect id="currentButton" x="60" y="60" width="120" height="40" fill="#0e71bd" />
+        
+        <g id="menuButton1" font-family="verdana" font-size="15" text-anchor="middle">  
+                <text id="menu1" x="120" y="87" fill="#000000">Neues Spiel</text>
+                <text id="menu2" x="120" y="132" fill="#000000">Fortsetzen</text>
+                <text id="menu3" x="120" y="177" fill="#000000">Hilfe</text>
+                <text id="menu4" x="120" y="222" fill="#000000">Highscore</text>
+                <text id="menu6" x="120" y="267" fill="#000000">Beenden</text>
+        </g>
+        
+</svg>
